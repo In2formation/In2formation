@@ -106,7 +106,8 @@ Test-driven API project calculating vehicle values with robust validation and er
 
 ---
 
-### [Trade Me Simplified Auction API](https://github.com/In2formation/trade-me-api)
+### [Trade Me Simplified Auction API](https://github.com/In2formation/Basic-frontend-auction-app-using-MongoDB-CLI-tool-to-seed-and-retrieve-of-data)
+
 **MongoDB-based auction platform with CLI tooling**
 
 Individual project building a simplified auction API with NoSQL database and command-line interface for data management.
