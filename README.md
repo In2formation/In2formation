@@ -19,23 +19,21 @@ I build production-ready web applications with modern technologies, focusing on 
 
 ## Featured Projects
 
-### [Learning App](https://github.com/In2formation/In2formation-Learning-App-Login-Page)
+### [Z Energy Station Locator](https://github.com/In2formation/z-energy-locator)
+**Full-stack fuel station finder with AI assistant and price comparison**
 
-**Full-stack learning platform for students and teachers**
+Team project building a web app for Z Energy customers to find stations, compare fuel prices, and get directions with an AI chatbot assistant.
 
-Team project building an educational platform connecting students and teachers with course materials, project libraries, and user management.
+**My Role:** Gas Buddy page developer + Backend database architect + Testing
+- Built complete Gas Buddy price comparison page with distance calculations (Haversine formula)
+- Implemented dual-range filtering system (price + distance) with sortable table
+- Designed MongoDB schemas and created comprehensive seed script (200+ stations)
+- Developed backend API routes for stations and fuel prices
+- Wrote unit and integration tests with Jest and Supertest
+- Created shared hamburger menu component for mobile navigation
+- Collaborated with UX team following high-fidelity mockups and UI kit specifications
 
-**My Role:** Homepage developer + Authentication system architect
-- Built homepage (HomePage.jsx) with modal state management and component integration
-- Designed and implemented Login/Signup modal (RegisterLogin.jsx) handling both student and teacher authentication
-- Created session persistence using localStorage with automatic restoration on app load
-- Implemented bcrypt password hashing (salt round 10) for secure authentication
-- Built 4 backend authentication routes (student/teacher login and signup)
-- Integrated bcrypt.compare for secure password validation
-- Configured role-based redirects (/projectlibrary for students, /teacherdashboard for teachers)
-- Managed modal triggers from Header, HeroBanner, and CallToAction components
-
-**Tech:** React, React Router, Vite, CSS Modules, Node.js, Express, MySQL2, bcrypt
+**Tech:** React, React Router, Leaflet Maps, Node.js, Express, MongoDB, Google Gemini AI, Jest
 
 ---
 
@@ -56,37 +54,20 @@ Built a complete frontend + backend application with Google Gemini AI integratio
 
 ---
 
-### [Z Energy App](https://github.com/In2formation/Z-Energy-app-Price-Comparison-page-calculating-distance-with-price)
+### [Trade Me Simplified Auction API](https://github.com/In2formation/trade-me-api)
+**MongoDB-based auction platform with CLI tooling and comprehensive testing**
 
-**Full-stack fuel station finder with AI assistant**
+Individual project building a simplified auction API with NoSQL database, command-line interface for data management, and secure authentication.
 
-Team project building a web app for Z Energy customers to find stations, compare fuel prices, and get directions with an AI chatbot assistant.
+**My Role:** Solo developer - entire project
+- Built RESTful API with Express and MongoDB/Mongoose
+- Designed MongoDB schema for auction items with bcrypt password hashing and JWT authentication
+- Created CLI tool with Commander and Inquirer for seeding, clearing, and searching data
+- Implemented comprehensive test suite (unit, integration, e2e, CLI tests)
+- Used mongodb-memory-server for isolated test environments
+- Built advanced search with regex patterns and multi-field queries
 
-**My Role:** Backend database architect + Gas Buddy feature developer
-- Set up MongoDB database with Mongoose ODM
-- Created database seed scripts for station data
-- Built Gas Buddy page for fuel price comparison
-- Developed shared hamburger menu component
-- Implemented integration tests for API endpoints
-
-**Tech:** React, React Router, Leaflet Maps, Node.js, Express, MongoDB, Google Gemini AI, Jest
-
----
-
-### [Gemini AI Interviewer](https://github.com/In2formation/Gemini-AI-Interviewer-with-focus-on-backend-database-docker)
-
-**AI-powered interview practice platform with persistent conversations**
-
-Full-stack application using Google Gemini to conduct realistic job interviews with conversation history stored in a database.
-
-**My Role:** Backend routes, frontend API, database architecture, Docker containerization
-- Designed and implemented all Express.js API routes (sessions, messages, job titles)
-- Built frontend API client with session management and persistence
-- Set up Azure MySQL database with JSON columns for flexible conversation storage
-- Containerized MySQL with Docker Compose for team collaboration
-- Enabled persistent state across page refreshes and future user authentication
-
-**Tech:** React, Vite, Node.js, Express, Azure MySQL, MySQL Workbench, Docker, Google Gemini AI
+**Tech:** Node.js, Express, MongoDB, Mongoose, Jest, Commander, Inquirer, bcrypt, JWT, React, Vite
 
 ---
 
@@ -107,20 +88,40 @@ Test-driven API project calculating vehicle values with robust validation and er
 
 ---
 
-### [Trade Me Simplified Auction API](https://github.com/In2formation/Basic-frontend-auction-app-using-MongoDB-CLI-tool-to-seed-and-retrieve-of-data)
+### [Learning App](https://github.com/In2formation/In2formation-Learning-App-Login-Page)
 
-**MongoDB-based auction platform with CLI tooling**
+**Full-stack learning platform for students and teachers**
 
-Individual project building a simplified auction API with NoSQL database and command-line interface for data management.
+Team project building an educational platform connecting students and teachers with course materials, project libraries, and user management.
 
-**My Role:** Solo developer - entire project
-- Built RESTful API with Express and MongoDB/Mongoose
-- Designed MongoDB schema for auction items
-- Created CLI tool with Commander and Inquirer for seeding and searching
-- Implemented comprehensive test suite (unit, integration, e2e, CLI tests)
-- Used mongodb-memory-server for isolated test environments
+**My Role:** Homepage developer + Authentication system architect
+- Built homepage (HomePage.jsx) with modal state management and component integration
+- Designed and implemented Login/Signup modal (RegisterLogin.jsx) handling both student and teacher authentication
+- Created session persistence using localStorage with automatic restoration on app load
+- Implemented bcrypt password hashing (salt round 10) for secure authentication
+- Built 4 backend authentication routes (student/teacher login and signup)
+- Integrated bcrypt.compare for secure password validation
+- Configured role-based redirects (/projectlibrary for students, /teacherdashboard for teachers)
+- Managed modal triggers from Header, HeroBanner, and CallToAction components
 
-**Tech:** Node.js, Express, MongoDB, Mongoose, Jest, Commander, Inquirer, React, Vite
+**Tech:** React, React Router, Vite, CSS Modules, Node.js, Express, MySQL2, bcrypt
+
+---
+
+### [Gemini AI Interviewer](https://github.com/In2formation/Gemini-AI-Interviewer-with-focus-on-backend-database-docker)
+
+**AI-powered interview practice platform with persistent conversations**
+
+Full-stack application using Google Gemini to conduct realistic job interviews with conversation history stored in a database.
+
+**My Role:** Backend routes, frontend API, database architecture, Docker containerization
+- Designed and implemented all Express.js API routes (sessions, messages, job titles)
+- Built frontend API client with session management and persistence
+- Set up Azure MySQL database with JSON columns for flexible conversation storage
+- Containerized MySQL with Docker Compose for team collaboration
+- Enabled persistent state across page refreshes and future user authentication
+
+**Tech:** React, Vite, Node.js, Express, Azure MySQL, MySQL Workbench, Docker, Google Gemini AI
 
 ---
 
@@ -168,7 +169,7 @@ Individual project building a simplified auction API with NoSQL database and com
 
 ## Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/adrian-gerrard-3098b53ba/?skipRedirect=true)
 - 📧 [Email](mailto:your.email@example.com)
 - 🌐 [Portfolio](https://your-portfolio.com)
 
