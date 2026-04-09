@@ -24,7 +24,7 @@ I build production-ready web applications with modern technologies, focusing on 
 
 Team project building a web app for Z Energy customers to find stations, compare fuel prices, and get directions with an AI chatbot assistant.
 
-**My Role:** Gas Buddy page developer + Backend database architect + Testing
+**My Role:** compare-prices page developer + Backend database architect + Testing
 - Built complete Gas Buddy price comparison page with distance calculations (Haversine formula)
 - Implemented dual-range filtering system (price + distance) with sortable table
 - Designed MongoDB schemas and created comprehensive seed script (200+ stations)
