@@ -56,7 +56,8 @@ Built a complete frontend + backend application with Google Gemini AI integratio
 
 ---
 
-### [Z Energy Station Locator](https://github.com/In2formation/z-energy-locator)
+### [Z Energy App](https://github.com/In2formation/Z-Energy-app-Price-Comparison-page-calculating-distance-with-price)
+
 **Full-stack fuel station finder with AI assistant**
 
 Team project building a web app for Z Energy customers to find stations, compare fuel prices, and get directions with an AI chatbot assistant.
