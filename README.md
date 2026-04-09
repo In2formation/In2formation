@@ -19,7 +19,7 @@ I build production-ready web applications with modern technologies, focusing on 
 
 ## Featured Projects
 
-### [Z Energy Station Locator](https://github.com/In2formation/z-energy-locator)
+### [Z Energy App](https://github.com/In2formation/z-energy-locator)
 **Full-stack fuel station finder with AI assistant and price comparison**
 
 Team project building a web app for Z Energy customers to find stations, compare fuel prices, and get directions with an AI chatbot assistant.
