@@ -171,7 +171,7 @@ Full-stack application using Google Gemini to conduct realistic job interviews w
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/adrian-gerrard-3098b53ba/?skipRedirect=true)
 - 📧 [Email](mailto:your.email@example.com)
-- 🌐 [Portfolio](https://your-portfolio.com)
+- 🌐 [Portfolio](https://github.com/In2formation)
 
 ---
 
