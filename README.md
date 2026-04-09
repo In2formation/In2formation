@@ -54,7 +54,7 @@ Built a complete frontend + backend application with Google Gemini AI integratio
 
 ---
 
-### [Trade Me Simplified Auction API](https://github.com/In2formation/trade-me-api)
+### [Trade Me Simplified Auction API](https://github.com/In2formation/Basic-frontend-auction-app-using-MongoDB-CLI-tool-to-seed-and-retrieve-of-data).
 **MongoDB-based auction platform with CLI tooling and comprehensive testing**
 
 Individual project building a simplified auction API with NoSQL database, command-line interface for data management, and secure authentication.
