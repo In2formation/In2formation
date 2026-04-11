@@ -2,7 +2,7 @@
 
 **Junior Full Stack Developer** | **AI Integration Specialist** | **Cloud & DevOps Enthusiast**
 
-I build production‑ready web applications using modern, industry‑standard technologies, with a strong focus on clean architecture, maintainability, and developer experience. I’m committed to writing reliable, well‑tested code and delivering features that are both scalable and easy to understand. Currently completing the Mission Ready Advanced Full Stack Diploma, where I work in collaborative, real‑world team environments. This includes planning features together, managing shared Git workflows, reviewing code, resolving merge conflicts, and delivering projects under realistic constraints. These experiences have strengthened my communication, problem‑solving, and ability to contribute effectively within a development team.
+I enjoy building production‑ready web applications using modern, industry‑standard technologies, with a strong focus on clean architecture, maintainability, and developer experience. I’m committed to writing reliable, well‑tested code and delivering features that are both scalable and easy to understand. Currently completing the Mission Ready Advanced Full Stack Diploma, where I work in collaborative, real‑world team environments. This includes planning features together, managing shared Git workflows, reviewing code, resolving merge conflicts, and delivering projects under realistic constraints. These experiences have strengthened my communication, problem‑solving, and ability to contribute effectively within a development team.
 
 ---
 
