@@ -22,7 +22,7 @@ I build production‑ready web applications using modern, industry‑standard te
 ### [Z Energy App](https://github.com/In2formation/Z-Energy-app-Price-Comparison-page-calculating-distance-with-price)
 **Full-stack fuel station finder with AI assistant and price comparison**
 
-Team project building a protoype web app for Z Energy customers to find stations, compare fuel prices, and get directions with an AI chatbot assistant.
+Team project building a protoype mock web app for Z Energy customers to find stations, compare fuel prices, and get directions with an AI chatbot assistant.
 
 **My Role:** compare-prices page developer + Backend database architect + Testing
 - Built complete price comparison page with distance calculations (Haversine formula)
