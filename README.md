@@ -5,6 +5,8 @@
 I enjoy building production‑ready web applications using modern, industry‑standard technologies, with a strong focus on clean architecture, maintainability, and developer experience. I’m committed to writing reliable, well‑tested code and delivering features that are both scalable and easy to understand. Currently completing the Mission Ready Advanced Full Stack Diploma L6, where I work in collaborative, real‑world team environments. This includes planning features together, managing shared Git workflows, reviewing code, resolving merge conflicts, and delivering projects under realistic constraints. These experiences have strengthened my communication, problem‑solving, and ability to contribute effectively within a development team. 
 At present I am doing a placement with PolicyCheck, a Wellington based start-up. The PolicyCheck app. serves as an "AI Desk" that connects the workflows of brokers, coverholders, and managing agents. By converting complex, unstructured text documents (like PDFs, policy wordings, and binders) into live, structured data, it solves major communication and compliance gaps across the insurance chain. The work I have done here has been broad in scope ranging from assisting UX in prototype development re: mobile responsiveness, UI and CRM bug fixes to setting up and and automating SOC2 compliance via Openlane open source software, including experience configuring AWS ec2 environement. 
 
+Please feel free to browse the apps that I have worked on rcently - I am planning to update this content soon when I compelte my placement in a few weeks. 
+
 ---
 
 ## What I Do
