@@ -41,7 +41,7 @@ Mission Ready team project as part of my L5 building a protoype mock web app for
 
 **AI-powered chatbot for insurance recommendations**
 
-Built a complete frontend + backend application with Google Gemini AI integration that conducts natural conversations to recommend insurance products based on complex business rules.
+Mission Ready team project as part of my L5 - built a complete frontend + backend application with Google Gemini AI integration that conducts natural conversations to recommend insurance products based on complex business rules.
 
 **My Role:** Solo developer - entire project
 - Designed RESTful API with Express.js and comprehensive error handling
