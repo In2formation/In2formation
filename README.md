@@ -6,7 +6,7 @@ I enjoy building production‑ready web applications using modern, industry‑st
 
 At present I am doing a placement with PolicyCheck, a Wellington based start-up, as part of my Level 6 programme. The PolicyCheck app. serves as an "AI Desk" that connects the workflows of brokers, coverholders, and managing agents. By converting complex, unstructured text documents (like PDFs, policy wordings, and binders) into live, structured data, it solves major communication and compliance gaps across the insurance chain. The work I have done here has been broad in scope ranging from assisting UX in prototype development re: mobile responsiveness, UI and CRM bug fixes to setting up and and automating SOC2 compliance via Openlane open source software, including experience configuring AWS ec2 environement. 
 
-Please feel free to browse the apps that I have worked on rcently - I am planning to update this content soon when I compelte my placement in a few weeks. 
+Please feel free to browse the apps that I have worked on recently - I am planning to update this content soon when I compelte my placement in a few weeks. 
 
 ---
 
