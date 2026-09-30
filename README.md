@@ -12,12 +12,52 @@ Through that programme I spent twelve weeks with PolicyCheck, a Wellington-based
 
 - **Full-Stack Development** — TypeScript/React frontends, Node.js and Python services, multi-tenant data modelling
 - **AI Integration** — AWS Bedrock retrieval pipelines in production; Google Gemini API, prompt engineering and conversational systems
+- **AI-Assisted Engineering Workflows** — authored Claude Code skills, hooks and approval gates used across the team; orchestrated parallel agent build lanes with verification seats
 - **Third-Party Integrations** — OAuth connect flows, webhook delivery, scheduling and rate control
 - **Cloud & DevOps** — AWS (EC2, S3, SQS, Cognito, Aurora, EKS), Azure MySQL, Docker, GitHub Actions, nginx
 - **RESTful API Design** — scalable, secure, documented endpoints across a 20-service monorepo
 - **Test-Driven Development** — Vitest, Playwright, Jest, Supertest; regression packs written to fail before they pass
 - **Production Diagnosis** — root-causing live defects from logs to mechanism, with evidence at each step
 - **Compliance Engineering** — SOC 2, GDPR and ISO 42001 evidence pipelines and audit tooling
+- **Self-Directed Learning** — picked up TypeScript, Prisma, Kafka and AWS on the job, contributing to an unfamiliar 20-service monorepo within weeks
+
+---
+
+## PolicyCheck — Insurance Compliance SaaS (Apr–Sep 2026)
+
+**294 merged pull requests · 783 commits · 20+ microservices · TypeScript / React / Python monorepo**
+
+**Slack integration, built end to end** — OAuth connect flow, multi-tenant channel roster with
+scoped migrations, business-hours delivery windows, severity-gated rules and grouped finding
+cards. Diagnosed a total delivery outage down to a tenant-filter registration defect and
+reproduced it differentially before changing a line.
+
+**Document ingestion reliability** — removed an SQS visibility-timeout defect costing fifteen
+minutes per job, replaced an unevidenced 15-minute parser wait with a measured 6-minute constant,
+and routed DOCX through a new parser behind a feature flag with fallback.
+
+**CSS design-token migration** across a 1,437-file stylesheet estate to unblock dark mode. Proved
+the quality gate was measuring the wrong thing — a declaration naming a non-existent token passes
+stylelint and renders its hex fallback forever — then catalogued 636 emitted tokens against 325
+undefined ones across 2,115 occurrences.
+
+**Compliance tooling** — SOC 2, GDPR and ISO 42001 on a self-hosted GRC console running on AWS
+EC2: 76 live controls with linked evidence, automated evidence-sync and diagram pipelines, a
+hardened S3 evidence proxy, and TLS auto-renewal after finding certbot had no schedule.
+
+**Developer tooling and AI-assisted workflow** — authored Claude Code skills used across the
+engineering team: a daily standup change report reading live branch state and posting exactly
+once per run, plus upgrades to the feature-development and bug pipelines adding a board/PR
+duplicate scan, a fourth approval gate and fresh-worktree hook detection. Packaged them with a
+one-step setup script — install, repo stamp, settings merge and hook pipe-test. Ran multi-agent
+build waves with separate build and adversarial-verification seats, and pre-tool-use hooks
+gating installs on available memory and hardware temperature.
+
+**QA instrumentation** — a grading tool with 11 self-test layers scoring compliance checks against
+both engine and UI state, which exposed 19 of 101 codes as testing only for a non-null value.
+
+**Production security** — corrected IP attribution from a hop depth measured across 1,068 live
+requests, and identified four config-level bypass routes with exact citations.
 
 ---
 
