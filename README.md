@@ -1,12 +1,10 @@
 # Hey, I'm Adrian
 
-**Junior Full Stack Developer** | **AI Integration Specialist** | **Cloud & DevOps Enthusiast**
+**Full Stack Developer** | **NZ Permanent Resident — available now**
 
-I enjoy building production‑ready web applications using modern, industry‑standard technologies, with a strong focus on clean architecture, maintainability, and developer experience. I’m committed to writing reliable, well‑tested code and delivering features that are both scalable and easy to understand. Currently completing the Mission Ready Advanced Full Stack Diploma L6, where I work in collaborative, real‑world team environments. This includes planning features together, managing shared Git workflows, reviewing code, resolving merge conflicts, and delivering projects under realistic constraints. These experiences have strengthened my communication, problem‑solving, and ability to contribute effectively within a development team.
+I build production software and verify it before claiming it works, with a bias toward clean architecture, maintainable code and tests that fail before they pass. I completed the Mission Ready Advanced Full Stack Diploma L6, working throughout in collaborative team environments — shared Git workflows, code review, merge conflict resolution and delivery under real constraints.
 
-At present I am doing a placement with PolicyCheck, a Wellington based start-up, as part of my Level 6 programme. The PolicyCheck app. serves as an "AI Desk" that connects the workflows of brokers, coverholders, and managing agents. By converting complex, unstructured text documents (like PDFs, policy wordings, and binders) into live, structured data, it solves major communication and compliance gaps across the insurance chain. The work I have done here has been broad in scope ranging from assisting UX in prototype development re: mobile responsiveness, UI and CRM bug fixes to setting up and and automating SOC2 compliance via Openlane open source software, including experience configuring AWS ec2 environement. 
-
-Please feel free to browse the apps that I have worked on recently - I am planning to update this content soon when I compelte my placement in a few weeks. 
+Through that programme I spent five months with PolicyCheck, a Wellington-based start-up whose platform acts as an "AI Desk" connecting the workflows of brokers, coverholders and managing agents. It converts complex unstructured documents — PDFs, policy wordings and binders — into live structured data, closing communication and compliance gaps across the insurance chain. I became the third-highest contributor of more than twenty-five engineers on it, merging 294 pull requests across 20+ microservices. The work ran from a customer-facing Slack integration built end to end, through document-ingestion reliability and a design-token migration across a 1,437-file stylesheet estate, to SOC 2, GDPR and ISO 42001 compliance tooling on a self-hosted GRC console running on AWS EC2. 
 
 ---
 
