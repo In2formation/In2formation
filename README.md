@@ -61,7 +61,7 @@ requests, and identified four config-level bypass routes with exact citations.
 
 ---
 
-## Featured Projects
+## Featured Projects from Mission Ready Training
 
 ### [Z Energy App](https://github.com/In2formation/Z-Energy-app-Price-Comparison-page-calculating-distance-with-price)
 **Full-stack fuel station finder with AI assistant and price comparison**
