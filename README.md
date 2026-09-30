@@ -10,12 +10,14 @@ Through that programme I spent twelve weeks with PolicyCheck, a Wellington-based
 
 ## What I Do
 
-- **Full-Stack Development** — React frontends + Node.js/Express backends + Database design
-- **AI Integration** — Google Gemini API, prompt engineering, conversational AI systems
-- **Cloud & DevOps** — Azure MySQL, Docker containerization, CI/CD workflows
-- **Test-Driven Development** — Jest, Supertest, comprehensive test coverage
-- **RESTful API Design** — Scalable, secure, well-documented endpoints
-- **Self-Directed Learning** — Rapidly acquire new technologies through documentation, experimentation, and building projects
+- **Full-Stack Development** — TypeScript/React frontends, Node.js and Python services, multi-tenant data modelling
+- **AI Integration** — AWS Bedrock retrieval pipelines in production; Google Gemini API, prompt engineering and conversational systems
+- **Third-Party Integrations** — OAuth connect flows, webhook delivery, scheduling and rate control
+- **Cloud & DevOps** — AWS (EC2, S3, SQS, Cognito, Aurora, EKS), Azure MySQL, Docker, GitHub Actions, nginx
+- **RESTful API Design** — scalable, secure, documented endpoints across a 20-service monorepo
+- **Test-Driven Development** — Vitest, Playwright, Jest, Supertest; regression packs written to fail before they pass
+- **Production Diagnosis** — root-causing live defects from logs to mechanism, with evidence at each step
+- **Compliance Engineering** — SOC 2, GDPR and ISO 42001 evidence pipelines and audit tooling
 
 ---
 
