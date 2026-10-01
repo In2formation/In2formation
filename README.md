@@ -1,6 +1,6 @@
 # Hey, I'm Adrian
 
-**Full Stack Developer** | **NZ Permanent Resident — available now**
+**Full Stack Developer Lead** | **NZ Permanent Resident — available now**
 
 I build production software and verify it before claiming it works, with a bias toward clean architecture, maintainable code and tests that fail before they pass. I completed the Mission Ready Advanced Full Stack Diploma L6, working throughout in collaborative team environments — shared Git workflows, code review, merge conflict resolution and delivery under real constraints.
 
